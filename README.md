@@ -6,6 +6,7 @@ With this code, I implemented evaluation of some basic operations.
 And also paranthesis and operator precedence is implemented.
 
 These are the operators currently supported:
+
 "¹²³"   ex: 5¹=5  6²=36 4³=64           (power)
 
 "n"     ex: n5=-5 n10=-10               (n is negate)
